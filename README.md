@@ -67,6 +67,7 @@ Algorithm:
 The A* search algorithm ensures the AI finds the most efficient solution.
 The heuristics guide the search process to reduce unnecessary computations.
 
+  
 Thank you for exploring the 15 Puzzle Game project! 🎉
 
 
