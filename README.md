@@ -65,10 +65,9 @@ Misplaced Tiles: Focuses on reducing the number of incorrectly placed tiles.
 Algorithm:
 
 The A* search algorithm ensures the AI finds the most efficient solution.
-The heuristics guide the search process to reduce unnecessary computations.
+The heuristics guide the search process to reduce unnecessary computations. <br><br>
 
   
 Thank you for exploring the 15 Puzzle Game project! 🎉
-
 
 Happy Coding!!!
