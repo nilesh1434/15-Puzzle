@@ -45,12 +45,12 @@ cd 15-puzzle-game
 ### 3️⃣ Compile and Run the Program
 - To compile the code:
 ```bash
-javac Main.java
+javac main.java
 ```
 
 - To run the program:
 ```bash
-java Main
+java main
 ```
 
 ### 📖 How It Works
