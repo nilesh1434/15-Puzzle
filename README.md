@@ -38,8 +38,8 @@ This version introduces AI heuristics to analyze the board state and find optima
 
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/nilesh1434/15-puzzle.git
-cd 15-puzzle-game
+git clone https://github.com/nilesh1434/15-Puzzle.git
+cd 15-Puzzle
 ```
 
 ### 3️⃣ Compile and Run the Program
