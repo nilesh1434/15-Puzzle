@@ -42,7 +42,13 @@ git clone https://github.com/nilesh1434/15-Puzzle.git
 cd 15-Puzzle
 ```
 
-### 3️⃣ Compile and Run the Program
+### 3️⃣ Navigate to the Correct Directory
+After cloning, navigate to the src/main/java directory where the source code is stored.
+```bash
+cd src/main/java
+```
+
+### 4️⃣ Compile and Run the Program
 - To compile the code:
 ```bash
 javac main.java
