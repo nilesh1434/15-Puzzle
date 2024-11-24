@@ -43,7 +43,7 @@ cd 15-Puzzle
 ```
 
 ### 3️⃣ Navigate to the Correct Directory
-After cloning, navigate to the src/main/java directory where the source code is stored.
+- After cloning, navigate to the src/main/java directory where the source code is stored.
 ```bash
 cd src/main/java
 ```
