@@ -63,11 +63,13 @@ java main
 Gameplay:
 
 The player can interact with the puzzle, sliding tiles to solve it manually.
-A "Solve" button activates the AI, which calculates the optimal solution using selected heuristics.
+A "Solve" button activates the AI, which calculates the optimal solution using selected heuristics.<br><br>
+
 AI Heuristics:
 
 Manhattan Distance: Prioritizes moves that minimize the total distance of tiles from their correct positions.
-Misplaced Tiles: Focuses on reducing the number of incorrectly placed tiles.
+Misplaced Tiles: Focuses on reducing the number of incorrectly placed tiles.<br><br>
+
 Algorithm:
 
 The A* search algorithm ensures the AI finds the most efficient solution.
